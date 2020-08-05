@@ -1,4 +1,4 @@
-![John Hill](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.webivm.com%2Fcoding-background&psig=AOvVaw2E7cpvxQNJvwo7vrIhaQ7_&ust=1596754502437000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjHhJ6UhesCFQAAAAAdAAAAABAD)
+###[John Hill])
 
 <p align="center">I believe Open Source is for EVERYONE, yes YOU! Join me on my <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">YouTube channel</a> so we can geek out 🎥</p>
 
