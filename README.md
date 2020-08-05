@@ -1,7 +1,7 @@
 ### Hi there, my names John - [website] 👋
 
-## I'm a Developer, D1 Football Player, and lifelong learner  !
-- 🔭 I’m currently working at Delage Landen (DLL) as a Fullstack Software Engineer Intern [website]!
+## I'm a Developer, D1 Football Player, and lifelong learner !
+- 🔭 I’m currently working at Delage Landen (DLL) as a Fullstack Software Engineer Intern!
 - 🌱 I’m currently trying to learn everything under the sun 🤣
 - 👯 I’m looking to work on projects with anyone 
 - 🥅 2020 Goals: Create more personal projects, land an internship at a big four tech company, and learn!
