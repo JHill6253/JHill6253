@@ -1,6 +1,6 @@
 ### Hi there, my names John - [website] 👋
 
-## I'm a Son, Brother, Developer, and a Division 1 Football Player!
+## I'm a Developer, D1 Football Player, and lifelong learner  !
 - 🔭 I’m currently working at Delage Landen (DLL) as a Fullstack Software Engineer Intern [website]!
 - 🌱 I’m currently trying to learn everything under the sun 🤣
 - 👯 I’m looking to work on projects with anyone 
@@ -9,11 +9,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="JohnHill" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="JohnHill | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JohnHill | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JohnHill | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JohnHill | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JohnHill" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="JohnHill | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JohnHill | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JohnHill | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JohnHill | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
 ### Languages and Tools:
@@ -41,7 +41,7 @@
 
 
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=JHill6253&show_icons=true" /></p>
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=JHill6253&show_icons=true" /></p>
 
 [website]: https://jhill6253.github.io/JohnHillSoftware/#about
 [twitter]: https://twitter.com/JOHNNY__TRILL
