@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at Delage Landen (DLL) as a Fullstack Software Engineer Intern!
 - 🌱 I’m currently trying to learn everything under the sun 🤣
 - 👯 I’m looking to work on projects with anyone 
-- 🥅 2020 Goals: Create more personal projects, land an internship at a big four tech company, and learn!
+- 🥅 2020 Goals: Create more personal projects, land a great internship next Summer, and learn!
 - ⚡ Fun fact: I fish on my Jon boat 
 
 ### Connect with me:
