@@ -1,6 +1,6 @@
 ### Hi there, my names John - [website] 👋
 
-## I'm a Developer, D1 Football Player, and lifelong learner !
+## I'm a Developer and Student-Athlete 
 - 🔭 I’m currently working at Delage Landen (DLL) as a Fullstack Software Engineer Intern!
 - 🌱 I’m currently trying to learn more about Azure 
 - 👯 I’m looking to work on projects with anyone 
