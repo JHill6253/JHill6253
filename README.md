@@ -39,7 +39,7 @@
 
 
 
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=JHill6253&show_icons=true" /></p>
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=JHill6253&show_icons=true" alt='photo' /></p>
 
 [website]: https://jhill6253.github.io/JohnHillSoftware/#about
 [twitter]: https://twitter.com/JOHNNY__TRILL
