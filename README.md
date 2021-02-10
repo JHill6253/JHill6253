@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at Delage Landen (DLL) as a Fullstack Software Engineer Intern!
 - 🌱 I’m currently trying to learn more about Azure 
 - 👯 I’m looking to work on projects with anyone 
-- 🔭 Next summer I will be working at Best Buy Corperate as a Digital Engineer.
+
 
 ### Connect with me:
 
