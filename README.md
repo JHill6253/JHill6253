@@ -45,5 +45,5 @@
 [website]: https://jhill6253.github.io/JohnHillSoftware/#about
 [twitter]: https://twitter.com/JOHNNY__TRILL
 [youtube]: https://www.youtube.com/channel/UCnJ5X1UJnlaoOx5EDYP-kqg?view_as=subscriber
-[instagram]: https://instagram.com/johnny_hill62
+[instagram]: https://www.instagram.com/johnhill1553/
 [linkedin]:  https://www.linkedin.com/in/johnthill1/
