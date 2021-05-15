@@ -1,10 +1,4 @@
-### Hi there, my names John - [website] 👋
-
-## I'm a Developer and Student-Athlete 
-- 🔭 I’m currently working at Best Buy as Software Engineer Intern!
-- 🌱 I’m currently trying to learn more about Azure 
-- 👯 I’m looking to work on projects with anyone 
-
+### Hi there, my names John - [website] 
 
 ### Connect with me:
 
