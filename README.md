@@ -36,7 +36,7 @@
 
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=JHill6253&show_icons=true" alt='photo' /></p>
 
-[website]: https://jhill6253.github.io/JohnHillSoftware/#about
+[website]: https://johnthill.solutions
 [twitter]: https://twitter.com/JOHNNY__TRILL
 [youtube]: https://www.youtube.com/channel/UCnJ5X1UJnlaoOx5EDYP-kqg?view_as=subscriber
 [instagram]: https://www.instagram.com/johnhill1553/
